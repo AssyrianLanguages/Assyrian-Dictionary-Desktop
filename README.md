@@ -5,6 +5,15 @@ At this time, the only available options are public preview versions. Some of th
 
 An **internet connection is required** to search for words. The only time it's not required is when browsing and/or searching words that have been saved by the user.
 
+## Safety
+This is the official source. Please make sure to always only get the app from here.
+
+If the official source ever changes, then this page will be updated to inform you about it.
+
+If you're not yet aware, then please beware: anyone can lace just about any file with malware. So it's wise to only get the installation file from the official source.
+
+Tip: Before installing, for the sake of procedure, one might first drop the downloaded file into a service like VirusTotal.com for a scan.
+
 ## Setup
 If you already have an installation and you want to install another version, then you must **uninstall** the current version first.
 
@@ -13,7 +22,7 @@ You can find the latest version at the [releases](https://github.com/AssyrianLan
 ### Windows Setup
 1. Download the `.msi` file.
 2. Double-click it to open the installation.
-3. Follow through the installation.
+3. Follow through the installation steps.
 
 ![Screenshot of the AssyrianLanguages Windows dictionary app.](/assets/images/windows_v1-2-1.png)
 
@@ -29,7 +38,7 @@ Note: If you get a warning dialog about installing an app from an unidentified d
 ### Linux Setup
 1. Download the `.deb` file.
 2. Open a terminal and navigate to the folder in which the installation file resides.
-3. ```sudo dpkg -i assyriandictionary_[VERSION]_amd64.deb```
+3. ```sudo dpkg -i assyriandictionary_linux_[VERSION]_amd64.deb```
 
 ![Screenshot of the AssyrianLanguages Linux dictionary app.](/assets/images/linux_v1-2-1.png)
 
@@ -81,20 +90,11 @@ There's nothing necessarily wrong with the original format. It's just, arguably,
 
 You have the option to **disable these features from the settings** by clicking the button in the top-right corner of the app.
 
-## Safety
-This is the official source. Please make sure to always only get the app from here.
-
-If the official source ever changes, then this page will be updated to inform you about it.
-
-If you're not yet aware, then beware: anyone can lace just about any file with malware. So it's wise to only get the installation file from the official source.
-
-Tip: Before installing, for the sake of procedure, one might first drop the downloaded file into a service like VirusTotal.com for a scan.
-
 ## Privacy
 This app does not collect usage data — not even for improving it. 
 
-The only thing that it does, Internet-wise, is take your search query and try to get search results back from the AssyrianLanguages web service.
+The only thing that it does, internet-wise, is take your search query and try to get search results back from the AssyrianLanguages web service.
 
 If you save any words, then note that it stores them in an unencrypted database on your device. 
 
-Note: It takes some effort to provide encryption and make it user-friendly. So it's not as easy as flipping a switch to make it happen; however, the option will likely be developed eventually.
+Note: It takes some effort to provide encryption and make it user-friendly. So it's not as simple as flipping a switch to make it happen in development; however, the option will likely be developed eventually.
