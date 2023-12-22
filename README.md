@@ -15,9 +15,9 @@ If you're not yet aware, then please beware: anyone can lace just about any file
 Tip: Before installing, for the sake of procedure, one might first drop the downloaded file into a service like VirusTotal.com for a scan.
 
 ## Setup
-If you already have an installation and you want to install another version, then you must **uninstall** the current version first.
+If you already have an installation and you want to install another version, then you can replace, or install over, the current installation.
 
-You can find the latest version at the [releases](https://github.com/AssyrianLanguages/Assyrian-Dictionary-Desktop/releases/) page.
+Find the latest version at the [releases](https://github.com/AssyrianLanguages/Assyrian-Dictionary-Desktop/releases/) page.
 
 ### Windows Setup
 1. Download the `.msi` file.
@@ -55,11 +55,11 @@ Uninstalling, reinstalling, or updating the app does not remove or affect these 
 - switching between Eastern & Western dialect **(experimental)**
 - auto-transliteration of Assyrian to Latin **(experimental)**
 - switching between English & French definitions
-- more Latin character options for Assyrian searches (including ones w/ diacritics)
+- a variety of Latin character options for Assyrian searches (including ones w/ diacritics)
+- 15 Assyrian font options
 
 ## Planned Features
 - in-app Assyrian keyboard
-- text size options
 - search predictions (where a list drops down as you type, showing you possible Assyrian queries)
 - search result filters
 - back and forward navigation
